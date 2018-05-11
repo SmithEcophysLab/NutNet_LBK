@@ -1,2 +1,2 @@
 # NutNet_LBK
-Repository for Nutreitn Network site in Lubbock, Texas
+Repository for Nutrient Network site in Lubbock, Texas
