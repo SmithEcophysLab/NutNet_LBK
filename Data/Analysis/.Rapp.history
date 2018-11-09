@@ -1,0 +1,186 @@
+library(dplyr)#
+library(magrittr)#
+#
+# load computed lai values
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Rangeland/Data/LAI/Rangeland_LAI_051818', header = T)
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Rangeland/Data/LAI/Rangeland_LAI_051818.txt', header = T)
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/Rangeland_LAI_051818.txt', header = T)
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/Rangeland_LAI_051818', header = T)
+lai_raw = read.table('/Users/nicksmith/Documents/Research/NutNet/Rangeland/Data/LAI/RL051818_edited_calc.txt', header = F)
+lai_raw = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL051818_edited_calc.txt', header = F)
+lai_raw
+lai_raw = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL051818_edited.txt', header = F)
+lai_raw = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL051818_edited_forR.txt', header = F)
+colnames(lai_raw)[2] = 'B_Obs'
+colnames(lai_raw)[11] = 'Plot'
+lai_plus = left_join(lai, lai_raw, by = 'B_Obs')
+lai_group = group_by(lai_plus, Plot)
+lai_mean = summarise(lai_group, lai_mean = mean(LAI), lai_sd = sd(LAI))
+hist(lai_mean$lai_mean)
+library(dplyr)#
+library(magrittr)
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/Rangeland_LAI_061018', header = T)
+lai_raw = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited_forR.txt', header = F)
+lai_raw = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited_forR.txt', header = F, colClasses = c(rep("integer", 11), rep("NULL", 3)))
+fread
+?fread
+install.packages('data.table')
+library(data.table)
+?fread
+fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited_forR.txt', header = F, drop = c(12:14))
+test = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited_forR.txt', header = F, drop = c(12:14))
+head(test)
+test = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited_forR.txt', header = F, drop = c(11:13))
+head(test)
+class(test)
+test = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited_forR.txt', header = F, drop = c(11:13), data.table = F)
+class(test)
+head(test)
+colnames(lai_raw)[2] = 'B_Obs'
+lai_raw = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited_forR.txt', header = F, drop = c(11:13), data.table = F)
+colnames(lai_raw)[2] = 'B_Obs'
+colnames(lai_raw)[11] = 'Plot'
+colnames(lai_raw)[10] = 'Plot'
+lai_plus = left_join(lai, lai_raw, by = 'B_Obs')
+head(lai_plus)
+lai_group = group_by(lai_plus, Plot)
+lai_mean = summarise(lai_group, lai_mean = mean(LAI), lai_sd = sd(LAI))
+hist(lai_mean$lai_mean)
+plot(lai_mean$lai_mean)
+nrow(lai_mean)
+lai_mean$Plot
+lai_raw = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited.txt', header = F, drop = c(11:13), data.table = F, ski[ = 35])
+lai_raw = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited.txt', header = F, drop = c(11:13), data.table = F, skip = 35)
+colnames(lai_raw)[2] = 'B_Obs'
+colnames(lai_raw)[10] = 'Plot'
+lai_plus = left_join(lai, lai_raw, by = 'B_Obs')
+lai_group = group_by(lai_plus, Plot)
+lai_mean = summarise(lai_group, lai_mean = mean(LAI), lai_sd = sd(LAI))
+hist(lai_mean$lai_mean)
+plot(lai_mean$lai_mean)
+# load computed lai values#
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/Rangeland_LAI_061018', header = T)#
+#
+# load raw light data and combine#
+lai_raw = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited.txt', header = F, drop = c(11:13), data.table = F, skip = 35)#
+colnames(lai_raw)[2] = 'B_Obs'#
+colnames(lai_raw)[10] = 'Plot'#
+lai_plus = left_join(lai, lai_raw, by = 'B_Obs')#
+#
+# aggregate#
+lai_group = group_by(lai_plus, Plot)#
+lai_mean = summarise(lai_group, lai_mean = mean(LAI), lai_sd = sd(LAI))#
+#
+hist(lai_mean$lai_mean)#
+plot(lai_mean$lai_mean)
+nrow(lai_mean)
+lai_mean$block = NA
+lai_mean$block[1:14] = 1
+lai_mean$block[15:28] = 2
+lai_mean$block[29:42] = 3
+lai_mean$blockfac = as.factor(lai_mean$block)
+lai_block_lm = lm(lai_mean ~ blcokfac, data = lai_mean)
+lai_block_lm = lm(lai_mean ~ blockfac, data = lai_mean)
+anova(lai_block_lm)
+library(lsmeans)
+install.packages('emmeans')
+library(emmeans)
+lsmeans(lai_block_lm, ~blockfac)
+head(lai_mean)
+?strsplit
+strsplit(lai_mean$Plot, 'P')
+strsplit(lai_mean$Plot, 'P')[1]
+strsplit(lai_mean$Plot, 'P')[[]][2]
+strsplit(lai_mean$Plot, 'P')[[]]
+sapply(strsplit(lai_mean$Plot, 'P'), '[', 2)
+# load computed lai values#
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/Rangeland_LAI_061018', header = T)#
+#
+# load raw light data and combine#
+lai_raw = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited.txt', header = F, drop = c(11:13), data.table = F, skip = 35)#
+colnames(lai_raw)[2] = 'B_Obs'#
+colnames(lai_raw)[10] = 'Plot_raw'#
+lai_raw$Plot = sapply(strsplit(lai_raw$Plot, 'P'), '[', 2)
+lai_raw$Plot
+head(lai_raw)
+lai_plus = left_join(lai, lai_raw, by = 'B_Obs')
+head(lai_plus)
+# aggregate#
+lai_group = group_by(lai_plus, Plot)#
+lai_mean = summarise(lai_group, lai_mean = mean(LAI), lai_sd = sd(LAI))
+lai_group$Plot[lai_group$Plot == '1REDO']
+lai_group$Plot[lai_group$Plot == '1REDO'] <- 1
+lai_group$Plot
+# load computed lai values#
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/Rangeland_LAI_061018', header = T)#
+#
+# load raw light data and combine#
+lai_raw = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited.txt', header = F, drop = c(11:13), data.table = F, skip = 35)#
+colnames(lai_raw)[2] = 'B_Obs'#
+colnames(lai_raw)[10] = 'Plot_raw'#
+lai_raw$Plot = sapply(strsplit(lai_raw$Plot, 'P'), '[', 2)#
+lai_plus = left_join(lai, lai_raw, by = 'B_Obs')#
+#
+# aggregate#
+lai_group = group_by(lai_plus, Plot)#
+lai_mean = summarise(lai_group, lai_mean = mean(LAI), lai_sd = sd(LAI))#
+#
+lai_mean$Plot[lai_group$Plot == '1REDO'] <- 1
+lai_mean$Plot[lai_mean$Plot == '1REDO'] <- 1
+lai_mean$Plot
+lai_mean$Plot_num = as.numeric(as.character(lai_mean$Plot))
+as.character(lai_mean$Plot)
+as.numeric(as.character(lai_mean$Plot))
+lai_mean$Plot_num = NA
+lai_mean$Plot_num = as.numeric(as.character(lai_mean$Plot))
+lai_mean$block = NA#
+lai_mean$block[lai_mean$Plot_num < 15] = 1#
+lai_mean$block[lai_mean$Plot_num > 14 & lai_mean$Plot_num < 29] = 2#
+lai_mean$block[lai_mean$Plot_num > 28] = 3
+lai_block_lm = lm(lai_mean ~ blockfac, data = lai_mean)
+lai_mean$blockfac = as.factor(lai_mean$block)
+lai_block_lm = lm(lai_mean ~ blockfac, data = lai_mean)
+anova(lai_block_lm)
+lsmeans(lai_block_lm, ~blockfac)
+lai_mean$block
+c(lai_mean$block, lai_mean$Plot)
+cbind(lai_mean$block, lai_mean$Plot)
+library(dplyr)#
+library(magrittr)#
+library(data.table)#
+library(emmeans)#
+#
+# load computed lai values#
+lai = read.table('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/Rangeland_LAI_061018', header = T)#
+#
+# load raw light data and combine#
+lai_raw = fread('/Users/nicksmith/Documents/Research/NutNet/Data/LAI/RL061018_edited.txt', header = F, drop = c(11:13), data.table = F, skip = 35)#
+colnames(lai_raw)[2] = 'B_Obs'#
+colnames(lai_raw)[10] = 'Plot_raw'#
+lai_raw$Plot = sapply(strsplit(lai_raw$Plot, 'P'), '[', 2)#
+lai_plus = left_join(lai, lai_raw, by = 'B_Obs')#
+#
+# aggregate#
+lai_group = group_by(lai_plus, Plot)#
+lai_mean = summarise(lai_group, lai_mean = mean(LAI), lai_sd = sd(LAI))#
+#
+lai_mean$Plot[lai_mean$Plot == '1REDO'] <- 1#
+#
+hist(lai_mean$lai_mean)#
+plot(lai_mean$lai_mean)#
+nrow(lai_mean)#
+#
+lai_mean$Plot_num = NA#
+lai_mean$Plot_num = as.numeric(as.character(lai_mean$Plot))#
+#
+lai_mean$block = NA#
+lai_mean$block[lai_mean$Plot_num < 15] = 1#
+lai_mean$block[lai_mean$Plot_num > 14 & lai_mean$Plot_num < 29] = 2#
+lai_mean$block[lai_mean$Plot_num > 28] = 3#
+lai_mean$blockfac = as.factor(lai_mean$block)#
+#
+lai_block_lm = lm(lai_mean ~ blockfac, data = lai_mean)#
+anova(lai_block_lm)#
+lsmeans(lai_block_lm, ~blockfac)
+head(lai_mean)
+?summarise
