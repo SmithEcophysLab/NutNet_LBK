@@ -8,9 +8,9 @@ Nitrogen: **588 grams** per bag of slow release urea
 
 Phosphorus: **543.5 grams** per bag of Triple Super Phosphate
 
-Nitrogen: **500 grams** per bag of Sulphate of Potash
+Potassium: **500 grams** per bag of Sulphate of Potash
 
-Nitrogen: **2500 grams**  per bag of Everris Micromax
+Micronutrients: **2500 grams**  per bag of Everris Micromax
 
 ## Rationale
 
