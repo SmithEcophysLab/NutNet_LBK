@@ -8,3 +8,14 @@ Log created on June 27, 2019
 - core data plot for plots 34 and 35 had to be modified as soil collars were put in these plots
 (totally Nick's fault!)
 
+## October 6, 2019
+- harvest day
+- clipped and bagged biomass
+	- went "west to east"
+	- marked northwest corner of each strip with a flag
+- measured community composition
+- measured light interception
+- Laennecia was mostly fully senesced
+- other species senesced as well
+- Brassicacea identified as *Descurainia pinnata*
+- may be wise to harvest earlier next year
