@@ -1,562 +1,562 @@
-Day,Month,Year,DOY,Plot,Code,Percent.Cover,binomial,lifeform,family,genus,species
-8,6,2018,159,1,BARE,8,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,1,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,1,BoGr,25,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,1,LITT,92,litter,LITT,litter,litter,NA
-8,6,2018,159,2,LaCo,6,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,2,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,2,SoEl,22,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,2,BARE,30,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,2,LITT,70,litter,LITT,litter,litter,NA
-8,6,2018,159,3,BoGr,17,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,3,SoEl,18,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,3,BARE,32,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,3,LITT,60,litter,LITT,litter,litter,NA
-8,6,2018,159,4,BARE,4,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,4,SoEl,6,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,4,BoGr,11,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,4,LITT,98,litter,LITT,litter,litter,NA
-8,6,2018,159,5,RaCo,1,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
-8,6,2018,159,5,LaCo,3,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,5,SoEl,8,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,5,BoGr,9,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,5,LITT,33,litter,LITT,litter,litter,NA
-8,6,2018,159,5,BARE,38,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,6,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,6,LITT,100,litter,LITT,litter,litter,NA
-8,6,2018,159,7,ChIn,7,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,7,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,7,LaCo,21,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,7,LITT,90,litter,LITT,litter,litter,NA
-8,6,2018,159,8,SoEl,15,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,8,BoGr,38,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,8,LITT,100,litter,LITT,litter,litter,NA
-8,6,2018,159,9,BARE,2,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,9,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,9,LaCo,6,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,9,BoGr,17,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,9,LITT,95,litter,LITT,litter,litter,NA
-8,6,2018,159,10,SoEl,6,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,10,BARE,16,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,10,BoGr,19,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,10,LITT,87,litter,LITT,litter,litter,NA
-8,6,2018,159,11,LaCo,2,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,11,ChIn,3,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,11,BARE,4,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,11,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,11,BoGr,17,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,11,LITT,82,litter,LITT,litter,litter,NA
-8,6,2018,159,12,ChIn,2,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,12,BARE,5,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,12,SoEl,6,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,12,BoGr,24,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,12,LITT,85,litter,LITT,litter,litter,NA
-8,6,2018,159,13,BoGr,6,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,13,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,13,LITT,110,litter,LITT,litter,litter,NA
-8,6,2018,159,14,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,14,BARE,6,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,14,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,14,LITT,95,litter,LITT,litter,litter,NA
-8,6,2018,159,15,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,15,BARE,5,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,15,BoGr,26,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,15,LITT,80,litter,LITT,litter,litter,NA
-8,6,2018,159,16,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,16,BoGr,35,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,16,LITT,100,litter,LITT,litter,litter,NA
-8,6,2018,159,17,ChIn,2,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,17,BARE,23,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,17,BoGr,45,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,17,LITT,77,litter,LITT,litter,litter,NA
-8,6,2018,159,18,ChIn,3,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,18,LaCo,3,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,18,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,18,LITT,100,litter,LITT,litter,litter,NA
-8,6,2018,159,19,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,19,ChIn,8,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,19,BARE,10,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,19,PrGl,12,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
-8,6,2018,159,19,BoGr,17,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,19,LITT,85,litter,LITT,litter,litter,NA
-8,6,2018,159,20,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,20,BARE,2,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,20,BoGr,37,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,20,LITT,98,litter,LITT,litter,litter,NA
-8,6,2018,159,21,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,21,BoGr,40,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,21,LITT,100,litter,LITT,litter,litter,NA
-8,6,2018,159,22,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,22,BoGr,23,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,22,LITT,95,litter,LITT,litter,litter,NA
-8,6,2018,159,23,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,23,LaCo,3,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,23,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,23,BARE,11,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,23,BoGr,24,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,23,LITT,85,litter,LITT,litter,litter,NA
-8,6,2018,159,24,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,24,BARE,5,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,24,BoGr,68,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,24,LITT,82,litter,LITT,litter,litter,NA
-8,6,2018,159,25,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,25,ChIn,2,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,25,LaCo,4,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,25,PrGl,13,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
-8,6,2018,159,25,LITT,30,litter,LITT,litter,litter,NA
-8,6,2018,159,25,BARE,70,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,26,BARE,1,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,26,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,26,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,26,LaCo,6,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,26,BoGr,22,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,26,LITT,100,litter,LITT,litter,litter,NA
-8,6,2018,159,27,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,27,ChIn,4,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,27,BARE,5,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,27,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,27,LITT,95,litter,LITT,litter,litter,NA
-8,6,2018,159,28,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,28,ChIn,7,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,28,LaCo,7,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,28,BARE,50,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,28,LITT,50,litter,LITT,litter,litter,NA
-8,6,2018,159,29,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,29,BARE,3,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,29,BoGr,52,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,29,LITT,85,litter,LITT,litter,litter,NA
-8,6,2018,159,30,BARE,1,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,30,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,30,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,30,LaCo,28,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,30,LITT,96,litter,LITT,litter,litter,NA
-8,6,2018,159,31,LaCo,1,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,31,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,31,BoGr,3,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,31,ChIn,4,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,31,BARE,10,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,31,LITT,78,litter,LITT,litter,litter,NA
-8,6,2018,159,32,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,32,PoMu,1,Portulaca mundula,Forb,Portulacaceaea,Portulaca,mundula
-8,6,2018,159,32,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,32,BARE,20,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,32,BoGr,35,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,32,LITT,80,litter,LITT,litter,litter,NA
-8,6,2018,159,33,LaCo,2,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,33,ChIn,3,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,33,BoGr,22,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,33,LITT,100,litter,LITT,litter,litter,NA
-8,6,2018,159,34,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,34,BARE,2,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,34,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,34,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,34,LITT,95,litter,LITT,litter,litter,NA
-8,6,2018,159,35,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,35,BARE,20,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,35,BoGr,45,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,35,LITT,50,litter,LITT,litter,litter,NA
-8,6,2018,159,36,BARE,2,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,36,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,36,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,36,LITT,98,litter,LITT,litter,litter,NA
-8,6,2018,159,37,BARE,1,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,37,ChIn,3,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,37,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,37,BoGr,34,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,37,LITT,99,litter,LITT,litter,litter,NA
-8,6,2018,159,38,BoGr,5,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,38,ChIn,5,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,38,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,38,BARE,7,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,38,LITT,83,litter,LITT,litter,litter,NA
-8,6,2018,159,39,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,39,BARE,2,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,39,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,39,BoGr,31,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,39,LITT,98,litter,LITT,litter,litter,NA
-8,6,2018,159,40,PrGl,2,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
-8,6,2018,159,40,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,40,ChIn,4,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,40,BARE,7,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,40,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,40,LITT,82,litter,LITT,litter,litter,NA
-8,6,2018,159,41,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,41,BARE,5,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,41,RaCo,6,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
-8,6,2018,159,41,LaCo,7,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-8,6,2018,159,41,ChIn,10,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-8,6,2018,159,41,LITT,95,litter,LITT,litter,litter,NA
-8,6,2018,159,42,BARE,2,bareground,BARE,bareground,bareground,NA
-8,6,2018,159,42,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-8,6,2018,159,42,BoGr,62,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-8,6,2018,159,42,LITT,95,litter,LITT,litter,litter,NA
-22,9,2018,265,1,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,1,LITT,10,litter,LITT,litter,litter,NA
-22,9,2018,265,1,BARE,12,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,1,BoGr,70,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,2,PaOb,2,Panicum obtusum,Grass,Poaceae,Panicum,obtusum
-22,9,2018,265,2,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,2,LITT,20,litter,LITT,litter,litter,NA
-22,9,2018,265,2,BARE,30,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,2,SoEl,45,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,3,PrGl,1,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
-22,9,2018,265,3,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,3,LITT,15,litter,LITT,litter,litter,NA
-22,9,2018,265,3,BARE,22,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,3,BoGr,75,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,4,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,4,BARE,20,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,4,LITT,45,litter,LITT,litter,litter,NA
-22,9,2018,265,4,BoGr,60,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,5,BARE,10,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,5,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,5,SoEl,25,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,5,LITT,27,litter,LITT,litter,litter,NA
-22,9,2018,265,6,LaCo,12,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-22,9,2018,265,6,SoEl,23,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,6,LITT,77,litter,LITT,litter,litter,NA
-22,9,2018,265,7,BARE,5,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,7,SoEl,25,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,7,LITT,80,litter,LITT,litter,litter,NA
-22,9,2018,265,8,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,8,LITT,17,litter,LITT,litter,litter,NA
-22,9,2018,265,8,BoGr,80,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,9,LITT,6,litter,LITT,litter,litter,NA
-22,9,2018,265,9,SoEl,8,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,9,BARE,17,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,9,BoGr,26,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,10,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,10,BARE,20,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,10,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,10,LITT,67,litter,LITT,litter,litter,NA
-22,9,2018,265,11,AmPS,1,Ambrosia psilostachya,Forb,Asteraceae,Ambrosia,psilostachya
-22,9,2018,265,11,BARE,4,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,11,SoEl,7,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,11,BoGr,27,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,11,LITT,55,litter,LITT,litter,litter,NA
-22,9,2018,265,12,ChLa,2,Chamaesyce lata,Forb,Euphorbiaceae,Chamaesyce,lata
-22,9,2018,265,12,SaTr,2,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
-22,9,2018,265,12,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,12,ArHu,6,Argythamnia humilis,Forb,Euphorbiaceae,Argythamnia,humilis
-22,9,2018,265,12,BARE,6,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,12,BoGr,32,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,12,LITT,52,litter,LITT,litter,litter,NA
-22,9,2018,265,13,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,13,BoGr,70,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,13,LITT,80,litter,LITT,litter,litter,NA
-22,9,2018,265,14,BARE,5,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,14,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,14,ArHu,6,Argythamnia humilis,Forb,Euphorbiaceae,Argythamnia,humilis
-22,9,2018,265,14,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,14,LITT,70,litter,LITT,litter,litter,NA
-22,9,2018,265,15,BARE,3,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,15,LITT,50,litter,LITT,litter,litter,NA
-22,9,2018,265,15,BoGr,85,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,16,BARE,3,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,16,LITT,50,litter,LITT,litter,litter,NA
-22,9,2018,265,16,BoGr,45,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,17,LITT,1,litter,LITT,litter,litter,NA
-22,9,2018,265,17,PrGl,1,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
-22,9,2018,265,17,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,17,BARE,40,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,17,BoGr,40,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,18,BARE,2,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,18,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,18,LITT,80,litter,LITT,litter,litter,NA
-22,9,2018,265,19,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,19,ChIn,6,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
-22,9,2018,265,19,RaCo,8,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
-22,9,2018,265,19,BARE,10,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,19,BoGr,22,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,19,LITT,50,litter,LITT,litter,litter,NA
-22,9,2018,265,20,BARE,2,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,20,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,20,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,20,LITT,50,litter,LITT,litter,litter,NA
-22,9,2018,265,21,BARE,2,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,21,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,21,LITT,15,litter,LITT,litter,litter,NA
-22,9,2018,265,21,BoGr,70,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,22,SoEl,17,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,22,LITT,50,litter,LITT,litter,litter,NA
-22,9,2018,265,22,BoGr,68,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,23,BARE,15,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,23,SoEl,15,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,23,BoGr,30,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,23,LITT,32,litter,LITT,litter,litter,NA
-22,9,2018,265,24,SoEl,6,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,24,LITT,50,litter,LITT,litter,litter,NA
-22,9,2018,265,24,BoGr,70,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,25,BARE,5,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,25,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,25,LITT,60,litter,LITT,litter,litter,NA
-22,9,2018,265,26,BARE,2,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,26,SaTr,10,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
-22,9,2018,265,26,SoEl,17,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,26,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,26,LITT,45,litter,LITT,litter,litter,NA
-22,9,2018,265,27,BARE,3,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,27,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,27,ZiGr,25,Zinnia grandiflora,Forb,Asteraceae,Zinnia,grandiflora
-22,9,2018,265,27,LITT,40,litter,LITT,litter,litter,NA
-22,9,2018,265,27,BoGr,55,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,28,LaCo,10,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-22,9,2018,265,28,RaCo,10,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
-22,9,2018,265,28,BARE,15,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,28,LITT,90,litter,LITT,litter,litter,NA
-22,9,2018,265,29,BARE,2,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,29,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,29,LITT,31,litter,LITT,litter,litter,NA
-22,9,2018,265,29,BoGr,84,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,30,LaCo,2,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-22,9,2018,265,30,BARE,6,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,30,ChLa,9,Chamaesyce lata,Forb,Euphorbiaceae,Chamaesyce,lata
-22,9,2018,265,30,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,30,LITT,92,litter,LITT,litter,litter,NA
-22,9,2018,265,31,LaCo,1,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-22,9,2018,265,31,ChLa,3,Chamaesyce lata,Forb,Euphorbiaceae,Chamaesyce,lata
-22,9,2018,265,31,BoGr,5,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,31,BARE,7,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,31,SaTr,7,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
-22,9,2018,265,31,RaCo,10,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
-22,9,2018,265,31,LITT,98,litter,LITT,litter,litter,NA
-22,9,2018,265,32,BARE,8,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,32,LITT,12,litter,LITT,litter,litter,NA
-22,9,2018,265,32,BoGr,80,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,33,AmPS,1,Ambrosia psilostachya,Forb,Asteraceae,Ambrosia,psilostachya
-22,9,2018,265,33,RaCo,3,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
-22,9,2018,265,33,BoGr,7,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,33,BARE,12,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,33,SaTr,18,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
-22,9,2018,265,33,LITT,65,litter,LITT,litter,litter,NA
-22,9,2018,265,34,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,34,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,34,LITT,67,litter,LITT,litter,litter,NA
-22,9,2018,265,35,PoMu,2,Portulaca mundula,Forb,Portulacaceaea,Portulaca,mundula
-22,9,2018,265,35,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,35,BARE,27,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,35,LITT,38,litter,LITT,litter,litter,NA
-22,9,2018,265,35,BoGr,55,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,36,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,36,LITT,30,litter,LITT,litter,litter,NA
-22,9,2018,265,36,BoGr,75,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,37,BARE,2,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,37,SoEl,7,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,37,BoGr,30,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,37,LITT,85,litter,LITT,litter,litter,NA
-22,9,2018,265,38,AmPS,2,Ambrosia psilostachya,Forb,Asteraceae,Ambrosia,psilostachya
-22,9,2018,265,38,BoGr,3,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,38,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,38,RaCo,5,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
-22,9,2018,265,38,BARE,6,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,38,ChLa,8,Chamaesyce lata,Forb,Euphorbiaceae,Chamaesyce,lata
-22,9,2018,265,38,LITT,95,litter,LITT,litter,litter,NA
-22,9,2018,265,39,AmPS,1,Ambrosia psilostachya,Forb,Asteraceae,Ambrosia,psilostachya
-22,9,2018,265,39,BARE,1,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,39,LITT,17,litter,LITT,litter,litter,NA
-22,9,2018,265,39,BoGr,79,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,40,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,40,YuGl,2,Yucca glauca,Shrub/tree,Agavaceae,Yucca,glauca
-22,9,2018,265,40,LaCo,5,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-22,9,2018,265,40,BARE,15,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,40,BoGr,26,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,40,LITT,52,litter,LITT,litter,litter,NA
-22,9,2018,265,41,LaCo,2,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
-22,9,2018,265,41,BoGr,4,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-22,9,2018,265,41,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,41,RaCo,6,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
-22,9,2018,265,41,BARE,8,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,41,SaTr,25,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
-22,9,2018,265,41,LITT,72,litter,LITT,litter,litter,NA
-22,9,2018,265,42,BARE,1,bareground,BARE,bareground,bareground,NA
-22,9,2018,265,42,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
-22,9,2018,265,42,LITT,26,litter,LITT,litter,litter,NA
-22,9,2018,265,42,BoGr,90,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
-6,10,2019,279,2,LaCo,50,,,,,
-6,10,2019,279,2,BoGr,7.5,,,,,
-6,10,2019,279,2,BARE,20,,,,,
-6,10,2019,279,2,LITT,80,,,,,
-6,10,2019,279,2,DePi,9,,,,,
-6,10,2019,279,3,LaCo,50,,,,,
-6,10,2019,279,3,BoGr,22,,,,,
-6,10,2019,279,3,DePi,6.5,,,,,
-6,10,2019,279,3,SaTr,5,,,,,
-6,10,2019,279,3,BARE,5,,,,,
-6,10,2019,279,3,LITT,68.5,,,,,
-6,10,2019,279,3,SoEl,4,,,,,
-6,10,2019,279,3,ChIn,1,,,,,
-6,10,2019,279,4,LaCo,40,,,,,
-6,10,2019,279,4,BoGr,37.5,,,,,
-6,10,2019,279,4,DePi,15,,,,,
-6,10,2019,279,4,LITT,70,,,,,
-6,10,2019,279,4,BARE,7.5,,,,,
-6,10,2019,279,5,LaCo,30,,,,,
-6,10,2019,279,5,DePi,9,,,,,
-6,10,2019,279,5,SoEl,6.5,,,,,
-6,10,2019,279,5,BARE,30,,,,,
-6,10,2019,279,5,LITT,67.5,,,,,
-6,10,2019,279,5,SaTr,1.5,,,,,
-6,10,2019,279,5,BoGr,5,,,,,
-6,10,2019,279,14,LaCo,80,,,,,
-6,10,2019,279,14,DePi,20,,,,,
-6,10,2019,279,14,BoGr,15,,,,,
-6,10,2019,279,14,SoEl,2,,,,,
-6,10,2019,279,14,LITT,82.5,,,,,
-6,10,2019,279,13,LaCo,47.5,,,,,
-6,10,2019,279,13,GuSa,17.5,,,,,
-6,10,2019,279,13,DePi,5,,,,,
-6,10,2019,279,13,BoGr,22.5,,,,,
-6,10,2019,279,13,SoEl,2,,,,,
-6,10,2019,279,13,LITT,85,,,,,
-6,10,2019,279,13,BARE,6.5,,,,,
-6,10,2019,279,12,LaCo,35,,,,,
-6,10,2019,279,12,ChIn,3.5,,,,,
-6,10,2019,279,12,GlPu,1,,,,,
-6,10,2019,279,12,TrTe,1.5,,,,,
-6,10,2019,279,12,DePi,15,,,,,
-6,10,2019,279,12,BoGr,8.5,,,,,
-6,10,2019,279,12,BARE,5,,,,,
-6,10,2019,279,12,LITT,85,,,,,
-6,10,2019,279,12,SaTr,5.5,,,,,
-6,10,2019,279,12,PrGl,2,,,,,
-6,10,2019,279,11,LaCo,27.5,,,,,
-6,10,2019,279,11,BoGr,13.5,,,,,
-6,10,2019,279,11,SoEl,4.5,,,,,
-6,10,2019,279,11,DePi,6.5,,,,,
-6,10,2019,279,11,SaTr,4.5,,,,,
-6,10,2019,279,11,LITT,75,,,,,
-6,10,2019,279,11,BARE,4,,,,,
-6,10,2019,279,11,GlPu,1,,,,,
-6,10,2019,279,9,LaCo,75,,,,,
-6,10,2019,279,9,SoEl,6.5,,,,,
-6,10,2019,279,9,PrGl,1,,,,,
-6,10,2019,279,9,BoGr,3.5,,,,,
-6,10,2019,279,9,DePi,3.5,,,,,
-6,10,2019,279,9,GuSa,5,,,,,
-6,10,2019,279,9,LITT,75,,,,,
-6,10,2019,279,9,BARE,10,,,,,
-6,10,2019,279,8,BoGr,70,,,,,
-6,10,2019,279,8,LaCo,61.5,,,,,
-6,10,2019,279,8,SoEl,4,,,,,
-6,10,2019,279,8,LITT,27.5,,,,,
-6,10,2019,279,15,LaCo,70,,,,,
-6,10,2019,279,15,BoGr,19,,,,,
-6,10,2019,279,15,DePi,10,,,,,
-6,10,2019,279,15,LITT,70,,,,,
-6,10,2019,279,15,BARE,0.5,,,,,
-6,10,2019,279,15,GlPu,1,,,,,
-6,10,2019,279,16,LaCo,60,,,,,
-6,10,2019,279,16,GuSa,4,,,,,
-6,10,2019,279,16,BoGr,60,,,,,
-6,10,2019,279,16,LITT,37.5,,,,,
-6,10,2019,279,16,BARE,4.5,,,,,
-6,10,2019,279,16,SoEl,1.5,,,,,
-6,10,2019,279,16,DePi,4.5,,,,,
-6,10,2019,279,17,LaCo,12.5,,,,,
-6,10,2019,279,17,SoEl,3,,,,,
-6,10,2019,279,17,GlPu,2.5,,,,,
-6,10,2019,279,17,BoGr,60,,,,,
-6,10,2019,279,17,DePi,10,,,,,
-6,10,2019,279,17,LITT,55,,,,,
-6,10,2019,279,17,BARE,11.5,,,,,
-6,10,2019,279,18,LaCo,62.5,,,,,
-6,10,2019,279,18,DePi,7.5,,,,,
-6,10,2019,279,18,LITT,87.5,,,,,
-6,10,2019,279,18,BARE,10,,,,,
-6,10,2019,279,18,BoGr,2.5,,,,,
-6,10,2019,279,20,BoGr,75,,,,,
-6,10,2019,279,20,LaCo,29,,,,,
-6,10,2019,279,20,GuSa,15,,,,,
-6,10,2019,279,20,LITT,42.5,,,,,
-6,10,2019,279,20,BARE,2,,,,,
-6,10,2019,279,21,SoEl,9,,,,,
-6,10,2019,279,21,LaCo,42.5,,,,,
-6,10,2019,279,21,DePi,45,,,,,
-6,10,2019,279,21,BoGr,62.5,,,,,
-6,10,2019,279,21,GlPu,1,,,,,
-6,10,2019,279,21,LITT,56,,,,,
-6,10,2019,279,28,LaCo,15,,,,,
-6,10,2019,279,28,SaTr,3.5,,,,,
-6,10,2019,279,28,GlPu,1,,,,,
-6,10,2019,279,28,GuSa,42.5,,,,,
-6,10,2019,279,28,DePi,27.5,,,,,
-6,10,2019,279,28,BARE,5.5,,,,,
-6,10,2019,279,28,PrGl,1,,,,,
-6,10,2019,279,28,LITT,90,,,,,
-6,10,2019,279,27,ZiGr,19,,,,,
-6,10,2019,279,27,LaCo,32.5,,,,,
-6,10,2019,279,27,GuSa,3.5,,,,,
-6,10,2019,279,27,LITT,77.5,,,,,
-6,10,2019,279,27,BoGr,2.5,,,,,
-6,10,2019,279,27,BARE,7.5,,,,,
-6,10,2019,279,24,LaCo,19.5,,,,,
-6,10,2019,279,24,BoGr,62.5,,,,,
-6,10,2019,279,24,SoEl,5.5,,,,,
-6,10,2019,279,24,LITT,42.5,,,,,
-6,10,2019,279,24,BARE,1.5,,,,,
-6,10,2019,279,24,DePi,5,,,,,
-6,10,2019,279,23,LaCo,25,,,,,
-6,10,2019,279,23,SoEl,5,,,,,
-6,10,2019,279,23,BoGr,27.5,,,,,
-6,10,2019,279,23,BARE,20.4,,,,,
-6,10,2019,279,23,LITT,35,,,,,
-6,10,2019,279,23,PrGl,1,,,,,
-6,10,2019,279,29,LaCo,55,,,,,
-6,10,2019,279,29,SoEl,2.5,,,,,
-6,10,2019,279,29,DePi,10,,,,,
-6,10,2019,279,29,LITT,95,,,,,
-6,10,2019,279,29,BoGr,3.5,,,,,
-6,10,2019,279,30,SaTr,27.5,,,,,
-6,10,2019,279,30,SoEl,17,,,,,
-6,10,2019,279,30,TrTe,1.5,,,,,
-6,10,2019,279,30,DePi,17.5,,,,,
-6,10,2019,279,30,LaCo,17.5,,,,,
-6,10,2019,279,30,LITT,62.5,,,,,
-6,10,2019,279,30,BARE,9,,,,,
-6,10,2019,279,30,GuSa,5,,,,,
-6,10,2019,279,32,LaCo,47.5,,,,,
-6,10,2019,279,32,BoGr,6.5,,,,,
-6,10,2019,279,32,SaTr,3,,,,,
-6,10,2019,279,32,DePi,2,,,,,
-6,10,2019,279,32,BARE,17.5,,,,,
-6,10,2019,279,32,LITT,75,,,,,
-6,10,2019,279,33,LaCo,67.5,,,,,
-6,10,2019,279,33,PrGl,1,,,,,
-6,10,2019,279,33,BoGr,25,,,,,
-6,10,2019,279,33,DePi,4,,,,,
-6,10,2019,279,33,LITT,88.5,,,,,
-6,10,2019,279,33,BARE,3,,,,,
-6,10,2019,279,34,LaCo,75,,,,,
-6,10,2019,279,34,BoGr,10,,,,,
-6,10,2019,279,34,BARE,17.5,,,,,
-6,10,2019,279,34,LITT,70,,,,,
-6,10,2019,279,34,GlPu,1,,,,,
-6,10,2019,279,34,GuSa,5,,,,,
-6,10,2019,279,35,ChIn,5.5,,,,,
-6,10,2019,279,35,GlPu,3,,,,,
-6,10,2019,279,35,LaCo,40,,,,,
-6,10,2019,279,35,BoGr,50,,,,,
-6,10,2019,279,35,LITT,34,,,,,
-6,10,2019,279,35,BARE,10,,,,,
-6,10,2019,279,35,GuSa,7.5,,,,,
-6,10,2019,279,42,LaCo,55,,,,,
-6,10,2019,279,42,BoGr,67.5,,,,,
-6,10,2019,279,42,GuSa,2,,,,,
-6,10,2019,279,42,BARE,6.5,,,,,
-6,10,2019,279,42,LITT,15,,,,,
-6,10,2019,279,39,LaCo,65,,,,,
-6,10,2019,279,39,BoGr,47.5,,,,,
-6,10,2019,279,39,DePi,5,,,,,
-6,10,2019,279,39,LITT,50,,,,,
-6,10,2019,279,37,LaCo,62.5,,,,,
-6,10,2019,279,37,SoEl,7.5,,,,,
-6,10,2019,279,37,BoGr,45,,,,,
-6,10,2019,279,37,LITT,42.5,,,,,
-6,10,2019,279,37,GlPu,1,,,,,
-6,10,2019,279,37,BARE,4.5,,,,,
-6,10,2019,279,37,GuSa,4,,,,,
-6,10,2019,279,37,DePi,1,,,,,
-6,10,2019,279,36,LaCo,72.5,,,,,
-6,10,2019,279,36,SaTr,2,,,,,
-6,10,2019,279,36,BARE,2,,,,,
-6,10,2019,279,36,LITT,91.5,,,,,
+Day,Month,Year,DOY,Plot,Subplot,Code,Percent.Cover,binomial,lifeform,family,genus,species
+8,6,2018,159,1,NE,BARE,8,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,1,NE,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,1,NE,BoGr,25,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,1,NE,LITT,92,litter,LITT,litter,litter,NA
+8,6,2018,159,2,NE,LaCo,6,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,2,NE,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,2,NE,SoEl,22,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,2,NE,BARE,30,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,2,NE,LITT,70,litter,LITT,litter,litter,NA
+8,6,2018,159,3,NW,BoGr,17,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,3,NW,SoEl,18,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,3,NW,BARE,32,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,3,NW,LITT,60,litter,LITT,litter,litter,NA
+8,6,2018,159,4,NW,BARE,4,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,4,NW,SoEl,6,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,4,NW,BoGr,11,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,4,NW,LITT,98,litter,LITT,litter,litter,NA
+8,6,2018,159,5,NW,RaCo,1,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
+8,6,2018,159,5,NW,LaCo,3,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,5,NW,SoEl,8,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,5,NW,BoGr,9,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,5,NW,LITT,33,litter,LITT,litter,litter,NA
+8,6,2018,159,5,NW,BARE,38,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,6,SE,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,6,SE,LITT,100,litter,LITT,litter,litter,NA
+8,6,2018,159,7,NE,ChIn,7,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,7,NE,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,7,NE,LaCo,21,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,7,NE,LITT,90,litter,LITT,litter,litter,NA
+8,6,2018,159,8,NW,SoEl,15,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,8,NW,BoGr,38,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,8,NW,LITT,100,litter,LITT,litter,litter,NA
+8,6,2018,159,9,SW,BARE,2,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,9,SW,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,9,SW,LaCo,6,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,9,SW,BoGr,17,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,9,SW,LITT,95,litter,LITT,litter,litter,NA
+8,6,2018,159,10,SW,SoEl,6,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,10,SW,BARE,16,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,10,SW,BoGr,19,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,10,SW,LITT,87,litter,LITT,litter,litter,NA
+8,6,2018,159,11,NE,LaCo,2,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,11,NE,ChIn,3,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,11,NE,BARE,4,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,11,NE,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,11,NE,BoGr,17,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,11,NE,LITT,82,litter,LITT,litter,litter,NA
+8,6,2018,159,12,SW,ChIn,2,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,12,SW,BARE,5,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,12,SW,SoEl,6,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,12,SW,BoGr,24,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,12,SW,LITT,85,litter,LITT,litter,litter,NA
+8,6,2018,159,13,NW,BoGr,6,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,13,NW,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,13,NW,LITT,110,litter,LITT,litter,litter,NA
+8,6,2018,159,14,NE,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,14,NE,BARE,6,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,14,NE,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,14,NE,LITT,95,litter,LITT,litter,litter,NA
+8,6,2018,159,15,NW,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,15,NW,BARE,5,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,15,NW,BoGr,26,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,15,NW,LITT,80,litter,LITT,litter,litter,NA
+8,6,2018,159,16,SW,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,16,SW,BoGr,35,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,16,SW,LITT,100,litter,LITT,litter,litter,NA
+8,6,2018,159,17,NW,ChIn,2,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,17,NW,BARE,23,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,17,NW,BoGr,45,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,17,NW,LITT,77,litter,LITT,litter,litter,NA
+8,6,2018,159,18,NW,ChIn,3,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,18,NW,LaCo,3,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,18,NW,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,18,NW,LITT,100,litter,LITT,litter,litter,NA
+8,6,2018,159,19,NE,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,19,NE,ChIn,8,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,19,NE,BARE,10,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,19,NE,PrGl,12,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
+8,6,2018,159,19,NE,BoGr,17,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,19,NE,LITT,85,litter,LITT,litter,litter,NA
+8,6,2018,159,20,SW,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,20,SW,BARE,2,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,20,SW,BoGr,37,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,20,SW,LITT,98,litter,LITT,litter,litter,NA
+8,6,2018,159,21,SE,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,21,SE,BoGr,40,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,21,SE,LITT,100,litter,LITT,litter,litter,NA
+8,6,2018,159,22,SE,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,22,SE,BoGr,23,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,22,SE,LITT,95,litter,LITT,litter,litter,NA
+8,6,2018,159,23,NW,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,23,NW,LaCo,3,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,23,NW,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,23,NW,BARE,11,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,23,NW,BoGr,24,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,23,NW,LITT,85,litter,LITT,litter,litter,NA
+8,6,2018,159,24,SE,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,24,SE,BARE,5,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,24,SE,BoGr,68,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,24,SE,LITT,82,litter,LITT,litter,litter,NA
+8,6,2018,159,25,SW,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,25,SW,ChIn,2,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,25,SW,LaCo,4,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,25,SW,PrGl,13,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
+8,6,2018,159,25,SW,LITT,30,litter,LITT,litter,litter,NA
+8,6,2018,159,25,SW,BARE,70,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,26,NE,BARE,1,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,26,NE,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,26,NE,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,26,NE,LaCo,6,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,26,NE,BoGr,22,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,26,NE,LITT,100,litter,LITT,litter,litter,NA
+8,6,2018,159,27,SW,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,27,SW,ChIn,4,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,27,SW,BARE,5,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,27,SW,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,27,SW,LITT,95,litter,LITT,litter,litter,NA
+8,6,2018,159,28,SW,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,28,SW,ChIn,7,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,28,SW,LaCo,7,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,28,SW,BARE,50,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,28,SW,LITT,50,litter,LITT,litter,litter,NA
+8,6,2018,159,29,NE,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,29,NE,BARE,3,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,29,NE,BoGr,52,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,29,NE,LITT,85,litter,LITT,litter,litter,NA
+8,6,2018,159,30,NW,BARE,1,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,30,NW,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,30,NW,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,30,NW,LaCo,28,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,30,NW,LITT,96,litter,LITT,litter,litter,NA
+8,6,2018,159,31,NE,LaCo,1,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,31,NE,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,31,NE,BoGr,3,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,31,NE,ChIn,4,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,31,NE,BARE,10,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,31,NE,LITT,78,litter,LITT,litter,litter,NA
+8,6,2018,159,32,SE,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,32,SE,PoMu,1,Portulaca mundula,Forb,Portulacaceaea,Portulaca,mundula
+8,6,2018,159,32,SE,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,32,SE,BARE,20,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,32,SE,BoGr,35,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,32,SE,LITT,80,litter,LITT,litter,litter,NA
+8,6,2018,159,33,NE,LaCo,2,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,33,NE,ChIn,3,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,33,NE,BoGr,22,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,33,NE,LITT,100,litter,LITT,litter,litter,NA
+8,6,2018,159,34,NW,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,34,NW,BARE,2,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,34,NW,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,34,NW,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,34,NW,LITT,95,litter,LITT,litter,litter,NA
+8,6,2018,159,35,SW,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,35,SW,BARE,20,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,35,SW,BoGr,45,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,35,SW,LITT,50,litter,LITT,litter,litter,NA
+8,6,2018,159,36,SW,BARE,2,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,36,SW,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,36,SW,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,36,SW,LITT,98,litter,LITT,litter,litter,NA
+8,6,2018,159,37,SW,BARE,1,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,37,SW,ChIn,3,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,37,SW,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,37,SW,BoGr,34,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,37,SW,LITT,99,litter,LITT,litter,litter,NA
+8,6,2018,159,38,NW,BoGr,5,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,38,NW,ChIn,5,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,38,NW,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,38,NW,BARE,7,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,38,NW,LITT,83,litter,LITT,litter,litter,NA
+8,6,2018,159,39,NE,ChIn,1,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,39,NE,BARE,2,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,39,NE,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,39,NE,BoGr,31,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,39,NE,LITT,98,litter,LITT,litter,litter,NA
+8,6,2018,159,40,SE,PrGl,2,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
+8,6,2018,159,40,SE,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,40,SE,ChIn,4,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,40,SE,BARE,7,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,40,SE,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,40,SE,LITT,82,litter,LITT,litter,litter,NA
+8,6,2018,159,41,SE,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,41,SE,BARE,5,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,41,SE,RaCo,6,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
+8,6,2018,159,41,SE,LaCo,7,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+8,6,2018,159,41,SE,ChIn,10,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+8,6,2018,159,41,SE,LITT,95,litter,LITT,litter,litter,NA
+8,6,2018,159,42,SE,BARE,2,bareground,BARE,bareground,bareground,NA
+8,6,2018,159,42,SE,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+8,6,2018,159,42,SE,BoGr,62,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+8,6,2018,159,42,SE,LITT,95,litter,LITT,litter,litter,NA
+22,9,2018,265,1,NE,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,1,NE,LITT,10,litter,LITT,litter,litter,NA
+22,9,2018,265,1,NE,BARE,12,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,1,NE,BoGr,70,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,2,NE,PaOb,2,Panicum obtusum,Grass,Poaceae,Panicum,obtusum
+22,9,2018,265,2,NE,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,2,NE,LITT,20,litter,LITT,litter,litter,NA
+22,9,2018,265,2,NE,BARE,30,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,2,NE,SoEl,45,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,3,NW,PrGl,1,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
+22,9,2018,265,3,NW,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,3,NW,LITT,15,litter,LITT,litter,litter,NA
+22,9,2018,265,3,NW,BARE,22,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,3,NW,BoGr,75,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,4,NW,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,4,NW,BARE,20,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,4,NW,LITT,45,litter,LITT,litter,litter,NA
+22,9,2018,265,4,NW,BoGr,60,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,5,NW,BARE,10,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,5,NW,BoGr,15,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,5,NW,SoEl,25,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,5,NW,LITT,27,litter,LITT,litter,litter,NA
+22,9,2018,265,6,SE,LaCo,12,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+22,9,2018,265,6,SE,SoEl,23,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,6,SE,LITT,77,litter,LITT,litter,litter,NA
+22,9,2018,265,7,NE,BARE,5,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,7,NE,SoEl,25,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,7,NE,LITT,80,litter,LITT,litter,litter,NA
+22,9,2018,265,8,NW,SoEl,10,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,8,NW,LITT,17,litter,LITT,litter,litter,NA
+22,9,2018,265,8,NW,BoGr,80,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,9,SW,LITT,6,litter,LITT,litter,litter,NA
+22,9,2018,265,9,SW,SoEl,8,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,9,SW,BARE,17,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,9,SW,BoGr,26,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,10,SW,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,10,SW,BARE,20,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,10,SW,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,10,SW,LITT,67,litter,LITT,litter,litter,NA
+22,9,2018,265,11,NE,AmPS,1,Ambrosia psilostachya,Forb,Asteraceae,Ambrosia,psilostachya
+22,9,2018,265,11,NE,BARE,4,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,11,NE,SoEl,7,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,11,NE,BoGr,27,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,11,NE,LITT,55,litter,LITT,litter,litter,NA
+22,9,2018,265,12,SW,ChLa,2,Chamaesyce lata,Forb,Euphorbiaceae,Chamaesyce,lata
+22,9,2018,265,12,SW,SaTr,2,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
+22,9,2018,265,12,SW,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,12,SW,ArHu,6,Argythamnia humilis,Forb,Euphorbiaceae,Argythamnia,humilis
+22,9,2018,265,12,SW,BARE,6,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,12,SW,BoGr,32,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,12,SW,LITT,52,litter,LITT,litter,litter,NA
+22,9,2018,265,13,NW,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,13,NW,BoGr,70,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,13,NW,LITT,80,litter,LITT,litter,litter,NA
+22,9,2018,265,14,NE,BARE,5,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,14,NE,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,14,NE,ArHu,6,Argythamnia humilis,Forb,Euphorbiaceae,Argythamnia,humilis
+22,9,2018,265,14,NE,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,14,NE,LITT,70,litter,LITT,litter,litter,NA
+22,9,2018,265,15,NW,BARE,3,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,15,NW,LITT,50,litter,LITT,litter,litter,NA
+22,9,2018,265,15,NW,BoGr,85,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,16,SW,BARE,3,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,16,SW,LITT,50,litter,LITT,litter,litter,NA
+22,9,2018,265,16,SW,BoGr,45,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,17,NW,LITT,1,litter,LITT,litter,litter,NA
+22,9,2018,265,17,NW,PrGl,1,Prosopis glandulosa,Shrub/tree,Fabaceae,Prosopis,glandulosa
+22,9,2018,265,17,NW,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,17,NW,BARE,40,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,17,NW,BoGr,40,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,18,NW,BARE,2,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,18,NW,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,18,NW,LITT,80,litter,LITT,litter,litter,NA
+22,9,2018,265,19,NE,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,19,NE,ChIn,6,Chinopodium incanum,Forb,Chenopodiaceae,Chinopodium,incanum
+22,9,2018,265,19,NE,RaCo,8,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
+22,9,2018,265,19,NE,BARE,10,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,19,NE,BoGr,22,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,19,NE,LITT,50,litter,LITT,litter,litter,NA
+22,9,2018,265,20,SW,BARE,2,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,20,SW,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,20,SW,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,20,SW,LITT,50,litter,LITT,litter,litter,NA
+22,9,2018,265,21,SE,BARE,2,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,21,SE,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,21,SE,LITT,15,litter,LITT,litter,litter,NA
+22,9,2018,265,21,SE,BoGr,70,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,22,SE,SoEl,17,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,22,SE,LITT,50,litter,LITT,litter,litter,NA
+22,9,2018,265,22,SE,BoGr,68,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,23,NW,BARE,15,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,23,NW,SoEl,15,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,23,NW,BoGr,30,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,23,NW,LITT,32,litter,LITT,litter,litter,NA
+22,9,2018,265,24,SE,SoEl,6,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,24,SE,LITT,50,litter,LITT,litter,litter,NA
+22,9,2018,265,24,SE,BoGr,70,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,25,SW,BARE,5,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,25,SW,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,25,SW,LITT,60,litter,LITT,litter,litter,NA
+22,9,2018,265,26,NE,BARE,2,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,26,NE,SaTr,10,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
+22,9,2018,265,26,NE,SoEl,17,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,26,NE,BoGr,20,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,26,NE,LITT,45,litter,LITT,litter,litter,NA
+22,9,2018,265,27,SW,BARE,3,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,27,SW,SoEl,3,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,27,SW,ZiGr,25,Zinnia grandiflora,Forb,Asteraceae,Zinnia,grandiflora
+22,9,2018,265,27,SW,LITT,40,litter,LITT,litter,litter,NA
+22,9,2018,265,27,SW,BoGr,55,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,28,SW,LaCo,10,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+22,9,2018,265,28,SW,RaCo,10,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
+22,9,2018,265,28,SW,BARE,15,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,28,SW,LITT,90,litter,LITT,litter,litter,NA
+22,9,2018,265,29,NE,BARE,2,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,29,NE,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,29,NE,LITT,31,litter,LITT,litter,litter,NA
+22,9,2018,265,29,NE,BoGr,84,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,30,NW,LaCo,2,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+22,9,2018,265,30,NW,BARE,6,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,30,NW,ChLa,9,Chamaesyce lata,Forb,Euphorbiaceae,Chamaesyce,lata
+22,9,2018,265,30,NW,SoEl,12,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,30,NW,LITT,92,litter,LITT,litter,litter,NA
+22,9,2018,265,31,NE,LaCo,1,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+22,9,2018,265,31,NE,ChLa,3,Chamaesyce lata,Forb,Euphorbiaceae,Chamaesyce,lata
+22,9,2018,265,31,NE,BoGr,5,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,31,NE,BARE,7,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,31,NE,SaTr,7,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
+22,9,2018,265,31,NE,RaCo,10,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
+22,9,2018,265,31,NE,LITT,98,litter,LITT,litter,litter,NA
+22,9,2018,265,32,SE,BARE,8,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,32,SE,LITT,12,litter,LITT,litter,litter,NA
+22,9,2018,265,32,SE,BoGr,80,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,33,NE,AmPS,1,Ambrosia psilostachya,Forb,Asteraceae,Ambrosia,psilostachya
+22,9,2018,265,33,NE,RaCo,3,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
+22,9,2018,265,33,NE,BoGr,7,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,33,NE,BARE,12,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,33,NE,SaTr,18,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
+22,9,2018,265,33,NE,LITT,65,litter,LITT,litter,litter,NA
+22,9,2018,265,34,NW,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,34,NW,BoGr,50,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,34,NW,LITT,67,litter,LITT,litter,litter,NA
+22,9,2018,265,35,SW,PoMu,2,Portulaca mundula,Forb,Portulacaceaea,Portulaca,mundula
+22,9,2018,265,35,SW,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,35,SW,BARE,27,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,35,SW,LITT,38,litter,LITT,litter,litter,NA
+22,9,2018,265,35,SW,BoGr,55,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,36,SW,SoEl,1,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,36,SW,LITT,30,litter,LITT,litter,litter,NA
+22,9,2018,265,36,SW,BoGr,75,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,37,SW,BARE,2,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,37,SW,SoEl,7,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,37,SW,BoGr,30,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,37,SW,LITT,85,litter,LITT,litter,litter,NA
+22,9,2018,265,38,NW,AmPS,2,Ambrosia psilostachya,Forb,Asteraceae,Ambrosia,psilostachya
+22,9,2018,265,38,NW,BoGr,3,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,38,NW,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,38,NW,RaCo,5,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
+22,9,2018,265,38,NW,BARE,6,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,38,NW,ChLa,8,Chamaesyce lata,Forb,Euphorbiaceae,Chamaesyce,lata
+22,9,2018,265,38,NW,LITT,95,litter,LITT,litter,litter,NA
+22,9,2018,265,39,NE,AmPS,1,Ambrosia psilostachya,Forb,Asteraceae,Ambrosia,psilostachya
+22,9,2018,265,39,NE,BARE,1,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,39,NE,LITT,17,litter,LITT,litter,litter,NA
+22,9,2018,265,39,NE,BoGr,79,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,40,SE,SoEl,2,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,40,SE,YuGl,2,Yucca glauca,Shrub/tree,Agavaceae,Yucca,glauca
+22,9,2018,265,40,SE,LaCo,5,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+22,9,2018,265,40,SE,BARE,15,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,40,SE,BoGr,26,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,40,SE,LITT,52,litter,LITT,litter,litter,NA
+22,9,2018,265,41,SE,LaCo,2,Laennecia coulteri,Forb,Asteraceae,Laennecia,coulteri
+22,9,2018,265,41,SE,BoGr,4,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+22,9,2018,265,41,SE,SoEl,4,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,41,SE,RaCo,6,Ratibida columnifera,Forb,Asteraceae,Ratibida,columnifera
+22,9,2018,265,41,SE,BARE,8,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,41,SE,SaTr,25,Salsola tragus,Forb,Chenopodiaceae,Salsola,tragus
+22,9,2018,265,41,SE,LITT,72,litter,LITT,litter,litter,NA
+22,9,2018,265,42,SE,BARE,1,bareground,BARE,bareground,bareground,NA
+22,9,2018,265,42,SE,SoEl,5,Solanum elaegnaifolium,Forb,Solanaceae,Solanum,elaegnaifolium
+22,9,2018,265,42,SE,LITT,26,litter,LITT,litter,litter,NA
+22,9,2018,265,42,SE,BoGr,90,Bouteloua gracilis,Grass,Poaceae,Bouteloua,gracilis
+6,10,2019,279,2,NE,LaCo,50,,,,,
+6,10,2019,279,2,NE,BoGr,7.5,,,,,
+6,10,2019,279,2,NE,BARE,20,,,,,
+6,10,2019,279,2,NE,LITT,80,,,,,
+6,10,2019,279,2,NE,DePi,9,,,,,
+6,10,2019,279,3,NW,LaCo,50,,,,,
+6,10,2019,279,3,NW,BoGr,22,,,,,
+6,10,2019,279,3,NW,DePi,6.5,,,,,
+6,10,2019,279,3,NW,SaTr,5,,,,,
+6,10,2019,279,3,NW,BARE,5,,,,,
+6,10,2019,279,3,NW,LITT,68.5,,,,,
+6,10,2019,279,3,NW,SoEl,4,,,,,
+6,10,2019,279,3,NW,ChIn,1,,,,,
+6,10,2019,279,4,NW,LaCo,40,,,,,
+6,10,2019,279,4,NW,BoGr,37.5,,,,,
+6,10,2019,279,4,NW,DePi,15,,,,,
+6,10,2019,279,4,NW,LITT,70,,,,,
+6,10,2019,279,4,NW,BARE,7.5,,,,,
+6,10,2019,279,5,NW,LaCo,30,,,,,
+6,10,2019,279,5,NW,DePi,9,,,,,
+6,10,2019,279,5,NW,SoEl,6.5,,,,,
+6,10,2019,279,5,NW,BARE,30,,,,,
+6,10,2019,279,5,NW,LITT,67.5,,,,,
+6,10,2019,279,5,NW,SaTr,1.5,,,,,
+6,10,2019,279,5,NW,BoGr,5,,,,,
+6,10,2019,279,14,NE,LaCo,80,,,,,
+6,10,2019,279,14,NE,DePi,20,,,,,
+6,10,2019,279,14,NE,BoGr,15,,,,,
+6,10,2019,279,14,NE,SoEl,2,,,,,
+6,10,2019,279,14,NE,LITT,82.5,,,,,
+6,10,2019,279,13,NW,LaCo,47.5,,,,,
+6,10,2019,279,13,NW,GuSa,17.5,,,,,
+6,10,2019,279,13,NW,DePi,5,,,,,
+6,10,2019,279,13,NW,BoGr,22.5,,,,,
+6,10,2019,279,13,NW,SoEl,2,,,,,
+6,10,2019,279,13,NW,LITT,85,,,,,
+6,10,2019,279,13,NW,BARE,6.5,,,,,
+6,10,2019,279,12,SW,LaCo,35,,,,,
+6,10,2019,279,12,SW,ChIn,3.5,,,,,
+6,10,2019,279,12,SW,GlPu,1,,,,,
+6,10,2019,279,12,SW,TrTe,1.5,,,,,
+6,10,2019,279,12,SW,DePi,15,,,,,
+6,10,2019,279,12,SW,BoGr,8.5,,,,,
+6,10,2019,279,12,SW,BARE,5,,,,,
+6,10,2019,279,12,SW,LITT,85,,,,,
+6,10,2019,279,12,SW,SaTr,5.5,,,,,
+6,10,2019,279,12,SW,PrGl,2,,,,,
+6,10,2019,279,11,NE,LaCo,27.5,,,,,
+6,10,2019,279,11,NE,BoGr,13.5,,,,,
+6,10,2019,279,11,NE,SoEl,4.5,,,,,
+6,10,2019,279,11,NE,DePi,6.5,,,,,
+6,10,2019,279,11,NE,SaTr,4.5,,,,,
+6,10,2019,279,11,NE,LITT,75,,,,,
+6,10,2019,279,11,NE,BARE,4,,,,,
+6,10,2019,279,11,NE,GlPu,1,,,,,
+6,10,2019,279,9,SW,LaCo,75,,,,,
+6,10,2019,279,9,SW,SoEl,6.5,,,,,
+6,10,2019,279,9,SW,PrGl,1,,,,,
+6,10,2019,279,9,SW,BoGr,3.5,,,,,
+6,10,2019,279,9,SW,DePi,3.5,,,,,
+6,10,2019,279,9,SW,GuSa,5,,,,,
+6,10,2019,279,9,SW,LITT,75,,,,,
+6,10,2019,279,9,SW,BARE,10,,,,,
+6,10,2019,279,8,NW,BoGr,70,,,,,
+6,10,2019,279,8,NW,LaCo,61.5,,,,,
+6,10,2019,279,8,NW,SoEl,4,,,,,
+6,10,2019,279,8,NW,LITT,27.5,,,,,
+6,10,2019,279,15,NW,LaCo,70,,,,,
+6,10,2019,279,15,NW,BoGr,19,,,,,
+6,10,2019,279,15,NW,DePi,10,,,,,
+6,10,2019,279,15,NW,LITT,70,,,,,
+6,10,2019,279,15,NW,BARE,0.5,,,,,
+6,10,2019,279,15,NW,GlPu,1,,,,,
+6,10,2019,279,16,SW,LaCo,60,,,,,
+6,10,2019,279,16,SW,GuSa,4,,,,,
+6,10,2019,279,16,SW,BoGr,60,,,,,
+6,10,2019,279,16,SW,LITT,37.5,,,,,
+6,10,2019,279,16,SW,BARE,4.5,,,,,
+6,10,2019,279,16,SW,SoEl,1.5,,,,,
+6,10,2019,279,16,SW,DePi,4.5,,,,,
+6,10,2019,279,17,NW,LaCo,12.5,,,,,
+6,10,2019,279,17,NW,SoEl,3,,,,,
+6,10,2019,279,17,NW,GlPu,2.5,,,,,
+6,10,2019,279,17,NW,BoGr,60,,,,,
+6,10,2019,279,17,NW,DePi,10,,,,,
+6,10,2019,279,17,NW,LITT,55,,,,,
+6,10,2019,279,17,NW,BARE,11.5,,,,,
+6,10,2019,279,18,NW,LaCo,62.5,,,,,
+6,10,2019,279,18,NW,DePi,7.5,,,,,
+6,10,2019,279,18,NW,LITT,87.5,,,,,
+6,10,2019,279,18,NW,BARE,10,,,,,
+6,10,2019,279,18,NW,BoGr,2.5,,,,,
+6,10,2019,279,20,SW,BoGr,75,,,,,
+6,10,2019,279,20,SW,LaCo,29,,,,,
+6,10,2019,279,20,SW,GuSa,15,,,,,
+6,10,2019,279,20,SW,LITT,42.5,,,,,
+6,10,2019,279,20,SW,BARE,2,,,,,
+6,10,2019,279,21,SE,SoEl,9,,,,,
+6,10,2019,279,21,SE,LaCo,42.5,,,,,
+6,10,2019,279,21,SE,DePi,45,,,,,
+6,10,2019,279,21,SE,BoGr,62.5,,,,,
+6,10,2019,279,21,SE,GlPu,1,,,,,
+6,10,2019,279,21,SE,LITT,56,,,,,
+6,10,2019,279,28,SW,LaCo,15,,,,,
+6,10,2019,279,28,SW,SaTr,3.5,,,,,
+6,10,2019,279,28,SW,GlPu,1,,,,,
+6,10,2019,279,28,SW,GuSa,42.5,,,,,
+6,10,2019,279,28,SW,DePi,27.5,,,,,
+6,10,2019,279,28,SW,BARE,5.5,,,,,
+6,10,2019,279,28,SW,PrGl,1,,,,,
+6,10,2019,279,28,SW,LITT,90,,,,,
+6,10,2019,279,27,SW,ZiGr,19,,,,,
+6,10,2019,279,27,SW,LaCo,32.5,,,,,
+6,10,2019,279,27,SW,GuSa,3.5,,,,,
+6,10,2019,279,27,SW,LITT,77.5,,,,,
+6,10,2019,279,27,SW,BoGr,2.5,,,,,
+6,10,2019,279,27,SW,BARE,7.5,,,,,
+6,10,2019,279,24,SE,LaCo,19.5,,,,,
+6,10,2019,279,24,SE,BoGr,62.5,,,,,
+6,10,2019,279,24,SE,SoEl,5.5,,,,,
+6,10,2019,279,24,SE,LITT,42.5,,,,,
+6,10,2019,279,24,SE,BARE,1.5,,,,,
+6,10,2019,279,24,SE,DePi,5,,,,,
+6,10,2019,279,23,NW,LaCo,25,,,,,
+6,10,2019,279,23,NW,SoEl,5,,,,,
+6,10,2019,279,23,NW,BoGr,27.5,,,,,
+6,10,2019,279,23,NW,BARE,20.4,,,,,
+6,10,2019,279,23,NW,LITT,35,,,,,
+6,10,2019,279,23,NW,PrGl,1,,,,,
+6,10,2019,279,29,NE,LaCo,55,,,,,
+6,10,2019,279,29,NE,SoEl,2.5,,,,,
+6,10,2019,279,29,NE,DePi,10,,,,,
+6,10,2019,279,29,NE,LITT,95,,,,,
+6,10,2019,279,29,NE,BoGr,3.5,,,,,
+6,10,2019,279,30,NW,SaTr,27.5,,,,,
+6,10,2019,279,30,NW,SoEl,17,,,,,
+6,10,2019,279,30,NW,TrTe,1.5,,,,,
+6,10,2019,279,30,NW,DePi,17.5,,,,,
+6,10,2019,279,30,NW,LaCo,17.5,,,,,
+6,10,2019,279,30,NW,LITT,62.5,,,,,
+6,10,2019,279,30,NW,BARE,9,,,,,
+6,10,2019,279,30,NW,GuSa,5,,,,,
+6,10,2019,279,32,SE,LaCo,47.5,,,,,
+6,10,2019,279,32,SE,BoGr,6.5,,,,,
+6,10,2019,279,32,SE,SaTr,3,,,,,
+6,10,2019,279,32,SE,DePi,2,,,,,
+6,10,2019,279,32,SE,BARE,17.5,,,,,
+6,10,2019,279,32,SE,LITT,75,,,,,
+6,10,2019,279,33,NE,LaCo,67.5,,,,,
+6,10,2019,279,33,NE,PrGl,1,,,,,
+6,10,2019,279,33,NE,BoGr,25,,,,,
+6,10,2019,279,33,NE,DePi,4,,,,,
+6,10,2019,279,33,NE,LITT,88.5,,,,,
+6,10,2019,279,33,NE,BARE,3,,,,,
+6,10,2019,279,34,NE,LaCo,75,,,,,
+6,10,2019,279,34,NE,BoGr,10,,,,,
+6,10,2019,279,34,NE,BARE,17.5,,,,,
+6,10,2019,279,34,NE,LITT,70,,,,,
+6,10,2019,279,34,NE,GlPu,1,,,,,
+6,10,2019,279,34,NE,GuSa,5,,,,,
+6,10,2019,279,35,NW,ChIn,5.5,,,,,
+6,10,2019,279,35,NW,GlPu,3,,,,,
+6,10,2019,279,35,NW,LaCo,40,,,,,
+6,10,2019,279,35,NW,BoGr,50,,,,,
+6,10,2019,279,35,NW,LITT,34,,,,,
+6,10,2019,279,35,NW,BARE,10,,,,,
+6,10,2019,279,35,NW,GuSa,7.5,,,,,
+6,10,2019,279,42,SE,LaCo,55,,,,,
+6,10,2019,279,42,SE,BoGr,67.5,,,,,
+6,10,2019,279,42,SE,GuSa,2,,,,,
+6,10,2019,279,42,SE,BARE,6.5,,,,,
+6,10,2019,279,42,SE,LITT,15,,,,,
+6,10,2019,279,39,NE,LaCo,65,,,,,
+6,10,2019,279,39,NE,BoGr,47.5,,,,,
+6,10,2019,279,39,NE,DePi,5,,,,,
+6,10,2019,279,39,NE,LITT,50,,,,,
+6,10,2019,279,37,SW,LaCo,62.5,,,,,
+6,10,2019,279,37,SW,SoEl,7.5,,,,,
+6,10,2019,279,37,SW,BoGr,45,,,,,
+6,10,2019,279,37,SW,LITT,42.5,,,,,
+6,10,2019,279,37,SW,GlPu,1,,,,,
+6,10,2019,279,37,SW,BARE,4.5,,,,,
+6,10,2019,279,37,SW,GuSa,4,,,,,
+6,10,2019,279,37,SW,DePi,1,,,,,
+6,10,2019,279,36,SW,LaCo,72.5,,,,,
+6,10,2019,279,36,SW,SaTr,2,,,,,
+6,10,2019,279,36,SW,BARE,2,,,,,
+6,10,2019,279,36,SW,LITT,91.5,,,,,
