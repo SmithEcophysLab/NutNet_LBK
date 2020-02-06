@@ -2,6 +2,9 @@
 Activity log for the Lubbock, TX NutNet site.
 Log created on June 27, 2019
 
+## March 30, 2019
+- Fertilized plots
+
 ## June 27, 2019
 - Tyler put collars in each plot and began soil respiration measurements
 - Nick took LAI data
