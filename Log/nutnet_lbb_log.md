@@ -22,3 +22,8 @@ Log created on June 27, 2019
 - other species senesced as well
 - Brassicacea identified as *Descurainia pinnata*
 - may be wise to harvest earlier next year
+
+## April 26, 2020
+- fertilized plots
+- lots of flowering plants >> maybe think about a Spring sampling
+	- nothing new, but much easier IDing
