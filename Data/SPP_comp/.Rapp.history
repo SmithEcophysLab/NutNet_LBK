@@ -8,11 +8,78 @@ for (i in 1:length(sc$binomial)){#
 	sc$lifeform[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Life.form)#
 	sc$family[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Family)#
 }
+sc$genus = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 1)
+sc$species = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 2)
+write.csv(sc, '/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species_comp_withinfo.csv')
+sc = read.csv('/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species_comp.csv')#
+sp = read.csv('/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species.csv')#
+#
+sc$binomial = 'NA'#
+sc$lifeform = 'NA'#
+sc$family = 'NA'#
+#
+for (i in 1:length(sc$binomial)){#
+	sc$binomial[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Latin.binomial)#
+	sc$lifeform[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Life.form)#
+	sc$family[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Family)#
+}#
+#
+sc$genus = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 1)#
+sc$species = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 2)
+sc$binomial
+1:length(sc$binomial)
+}
+for (i in 1:length(sc$binomial)){#
+	sc$binomial[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Latin.binomial)#
+	sc$lifeform[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Life.form)#
+	sc$family[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Family)#
+}
+sc$family
+sc$lifeform
+sc$binomial
+i = 1
+as.character(subset(sp, Code == as.character(sc$Code[i]))$Latin.binomial)
+sc$binomial[i]
+i = 686
+as.character(subset(sp, Code == as.character(sc$Code[i]))$Latin.binomial)
+as.character(subset(sp, Code == as.character(sc$Code[i]))$Life.form)
+as.character(subset(sp, Code == as.character(sc$Code[i]))$Family)
+for (i in 1:length(sc$binomial)){#
+	sc$binomial[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Latin.binomial)#
+	sc$lifeform[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Life.form)#
+	sc$family[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Family)#
+}
+sc$Code
+sc = read.csv('/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species_comp.csv')#
+sp = read.csv('/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species.csv')#
+#
+sc$binomial = 'NA'#
+sc$lifeform = 'NA'#
+sc$family = 'NA'
+sc$Code
+for (i in 1:length(sc$binomial)){#
+	sc$binomial[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Latin.binomial)#
+	sc$lifeform[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Life.form)#
+	sc$family[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Family)#
+}
+level(sp$Code)
+levels(sp$Code)
+sc = read.csv('/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species_comp.csv')#
+sp = read.csv('/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species.csv')#
+#
+sc$binomial = 'NA'#
+sc$lifeform = 'NA'#
+sc$family = 'NA'#
+#
 for (i in 1:length(sc$binomial)){#
 	sc$binomial[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Latin.binomial)#
 	sc$lifeform[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Life.form)#
 	sc$family[i] <- as.character(subset(sp, Code == as.character(sc$Code[i]))$Family)#
 }
 sc$genus = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 1)
+sc$genus = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 1)
 sc$species = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 2)
+sc$species
+sc$genus
 write.csv(sc, '/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species_comp_withinfo.csv')
+30*4
