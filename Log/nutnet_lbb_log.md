@@ -27,3 +27,16 @@ Log created on June 27, 2019
 - fertilized plots
 - lots of flowering plants >> maybe think about a Spring sampling
 	- nothing new, but much easier IDing
+	
+## September 19, 2020
+- harvest day
+- clipped and bagged biomass
+	- went "west to east"
+	- marked northwest corner of each strip with a flag
+- measured community composition
+- measured light interception
+- measured plant height outside of plots for add-on experiment
+- most things still green, but this is as about as late as harvest should be
+
+## September 27, 2020
+- measured height of *Descurainia pinnata* (missed previous week)
