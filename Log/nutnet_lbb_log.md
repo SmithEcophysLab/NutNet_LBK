@@ -41,5 +41,5 @@ Log created on June 27, 2019
 ## September 27, 2020
 - measured height of *Descurainia pinnata* (missed previous week)
 
-## April 10, 2020
+## April 10, 2021
 - fertilized plots
