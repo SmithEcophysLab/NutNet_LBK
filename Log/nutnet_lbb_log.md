@@ -43,3 +43,4 @@ Log created on June 27, 2019
 
 ## April 10, 2021
 - fertilized plots
+- very few green plants (wait until end of month/beginning of May for spring sampling?)
