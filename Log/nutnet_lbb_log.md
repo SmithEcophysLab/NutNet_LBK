@@ -44,3 +44,10 @@ Log created on June 27, 2019
 ## April 10, 2021
 - fertilized plots
 - very few green plants (wait until end of month/beginning of May for spring sampling?)
+
+## September 11, 2021
+- took annual biomass samples from blocks 1 and 2
+- took annual community composition
+- took height on 10 individuals of all species
+- took annual light measurements
+- composition, light, and height measurements saved to Epicollect
