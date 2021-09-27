@@ -51,3 +51,7 @@ Log created on June 27, 2019
 - took height on 10 individuals of all species
 - took annual light measurements
 - composition, light, and height measurements saved to Epicollect
+- **COMMON LARGE ANNUAL IS CHENOPODIUM INCANUM - per R. Cox***
+
+## September 18, 2021
+- took ~300-400 g of soil from the biomass strips in each plot
