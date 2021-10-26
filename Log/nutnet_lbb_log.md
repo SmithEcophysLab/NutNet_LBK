@@ -55,3 +55,6 @@ Log created on June 27, 2019
 
 ## September 18, 2021
 - took ~300-400 g of soil from the biomass strips in each plot
+
+## October 26, 2021
+- sent soil samples to U Oklahoma (Jialiang Kuang and Daliang Ning)
