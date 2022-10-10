@@ -58,3 +58,11 @@ Log created on June 27, 2019
 
 ## October 26, 2021
 - sent soil samples to U Oklahoma (Jialiang Kuang and Daliang Ning)
+
+## April 2, 2022
+- fertilized
+
+## September 17, 2022
+- harvest day!
+	- light, biomass, and community composition sampled
+- also got soil cores for Richard Bardgett's group and sent them off
