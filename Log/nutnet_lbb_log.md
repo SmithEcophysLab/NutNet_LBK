@@ -59,6 +59,9 @@ Log created on June 27, 2019
 ## October 26, 2021
 - sent soil samples to U Oklahoma (Jialiang Kuang and Daliang Ning)
 
+## October(ish) 2021
+- sent biomass samples to UMN
+
 ## April 2, 2022
 - fertilized
 
