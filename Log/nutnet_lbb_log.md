@@ -69,3 +69,10 @@ Log created on June 27, 2019
 - harvest day!
 	- light, biomass, and community composition sampled
 - also got soil cores for Richard Bardgett's group and sent them off
+
+## March 25, 2023
+- fertilized
+
+## August 26, 2023
+- harvest day!
+	- light, biomass, and community composition sampled
