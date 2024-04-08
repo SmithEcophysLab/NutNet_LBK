@@ -76,3 +76,9 @@ Log created on June 27, 2019
 ## August 26, 2023
 - harvest day!
 	- light, biomass, and community composition sampled
+
+## April 6, 2024
+- fertilized plot using corect P and K amounts
+- green seedlings throughout plots
+- windy day
+- expecting rain on april 9, 2024
