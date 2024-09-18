@@ -82,3 +82,15 @@ Log created on June 27, 2019
 - green seedlings throughout plots
 - windy day
 - expecting rain on april 9, 2024
+
+## September 12, 2024
+- took community composition in all 30 plots
+- took light availability measurements in all 30 plots
+	- clear day
+	- start: 11:25, end: 13:00
+
+## September 15, 2024
+- harvested biomass and sorted in the field for all 30 plots
+- attempted to take soil cores for Brooke Osborne et al. ad on
+	- failed
+	- soil cores could be inserted, but soil fell through the bottom of the cores
