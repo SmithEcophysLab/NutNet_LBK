@@ -85,6 +85,7 @@ Log created on June 27, 2019
 
 ## September 12, 2024
 - took community composition in all 30 plots
+	- Nick and Isa
 - took light availability measurements in all 30 plots
 	- clear day
 	- start: 11:25, end: 13:00
