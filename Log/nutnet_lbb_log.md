@@ -95,3 +95,6 @@ Log created on June 27, 2019
 - attempted to take soil cores for Brooke Osborne et al. ad on
 	- failed
 	- soil cores could be inserted, but soil fell through the bottom of the cores
+
+## November 12, 2024
+- took 24 soil cores for Osborne add-on project
