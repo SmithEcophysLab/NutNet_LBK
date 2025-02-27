@@ -16,4 +16,4 @@ for (i in 1:length(sc$binomial)){
 sc$genus = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 1)
 sc$species = vapply(strsplit(sc$binomial, " ", fixed = TRUE), "[", "", 2)
 
-# write.csv(sc, '/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species_comp_withinfo.csv')
+# write.csv(sc, '/Users/nicksmith/Documents/Git/NutNet_LBK/Data/SPP_comp/species_comp_withinfo.csv', row.names = F)
