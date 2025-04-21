@@ -98,3 +98,8 @@ Log created on June 27, 2019
 
 ## November 12, 2024
 - took 24 soil cores for Osborne add-on project
+
+## April 21, 2025
+- fertilized all plots
+- green seedlings throughout plot
+- expecting rain later this week
