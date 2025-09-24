@@ -103,3 +103,8 @@ Log created on June 27, 2019
 - fertilized all plots
 - green seedlings throughout plot
 - expecting rain later this week
+
+## September 20, 2025
+- took species composition, light, and biomass in all 30 plots
+	- a little cloudy then clearing up by midday
+	- start: 8:30, end: 13:30
