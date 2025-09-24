@@ -1314,3 +1314,191 @@
 12,9,2024,256,36,"SW","BARE",4,"bareground","BARE","bareground","bareground",NA
 12,9,2024,256,36,"SW","ChIn",55,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
 12,9,2024,256,36,"SW","SaTr",3,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,2,"NE","SaTr",33,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,2,"NE","ChIn",20,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,2,"NE","LITT",70,"litter","LITT","litter","litter",NA
+20,9,2025,263,2,"NE","ThFi",45,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,2,"NE","BARE",5,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,3,"NW","BoGr",6,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,3,"NW","SaTr",70,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,3,"NW","SoEl",3,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,3,"NW","ThFi",22,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,3,"NW","LITT",5,"litter","LITT","litter","litter",NA
+20,9,2025,263,3,"NW","BARE",2,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,4,"NW","SaTr",70,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,4,"NW","ChIn",10,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,4,"NW","BoGr",12,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,4,"NW","SoEl",2,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,4,"NW","ThFi",30,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,4,"NW","LITT",5,"litter","LITT","litter","litter",NA
+20,9,2025,263,4,"NW","BARE",1,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,5,"NW","SaTr",90,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,5,"NW","ChIn",10,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,5,"NW","ThFi",8,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,5,"NW","LITT",7,"litter","LITT","litter","litter",NA
+20,9,2025,263,5,"NW","BARE",2,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,5,"NW","BoGr",1,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,14,"NE","SaTr",35,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,14,"NE","ChIn",3,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,14,"NE","BoGr",1,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,14,"NE","ThFi",32,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,14,"NE","ArHu",7,"Argythamnia humilis","Forb","Euphorbiaceae","Argythamnia","humilis"
+20,9,2025,263,14,"NE","LITT",15,"litter","LITT","litter","litter",NA
+20,9,2025,263,14,"NE","BARE",10,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,13,"NW","SaTr",95,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,13,"NW","LITT",7,"litter","LITT","litter","litter",NA
+20,9,2025,263,13,"NW","ThFi",5,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,12,"SW","LaCo",3,"Laennecia coulteri","Forb","Asteraceae","Laennecia","coulteri"
+20,9,2025,263,12,"SW","SaTr",30,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,12,"SW","BoGr",5,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,12,"SW","ChIn",12,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,12,"SW","ThFi",17,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,12,"SW","SoEl",1,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,12,"SW","PoOl",2,"Portulaca oleracea","Forb","Portulacaceaea","Portulaca","oleracea"
+20,9,2025,263,12,"SW","LITT",40,"litter","LITT","litter","litter",NA
+20,9,2025,263,12,"SW","BARE",1,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,11,"NE","SaTr",27,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,11,"NE","ChIn",6,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,11,"NE","ThFi",35,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,11,"NE","LITT",30,"litter","LITT","litter","litter",NA
+20,9,2025,263,11,"NE","BARE",2,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,9,"SW","SaTr",22,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,9,"SW","ChIn",20,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,9,"SW","ThFi",30,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,9,"SW","LITT",20,"litter","LITT","litter","litter",NA
+20,9,2025,263,9,"SW","BARE",5,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,8,"NW","ChIn",6,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,8,"NW","BoGr",40,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,8,"NW","PoOl",3,"Portulaca oleracea","Forb","Portulacaceaea","Portulaca","oleracea"
+20,9,2025,263,8,"NW","SoEl",1,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,8,"NW","ThFi",25,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,8,"NW","SaTr",5,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,8,"NW","LITT",4,"litter","LITT","litter","litter",NA
+20,9,2025,263,8,"NW","BARE",9,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,15,"NW","ChIn",3,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,15,"NW","BoGr",7,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,15,"NW","ThFi",50,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,15,"NW","GlPu",4,"Glandularia pumila","Forb","Verbenaceae","Glandularia","pumila"
+20,9,2025,263,15,"NW","LITT",45,"litter","LITT","litter","litter",NA
+20,9,2025,263,15,"NW","BARE",12,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,16,"SW","SaTr",25,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,16,"SW","ChIn",5,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,16,"SW","ThFi",12,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,16,"SW","LaCo",2,"Laennecia coulteri","Forb","Asteraceae","Laennecia","coulteri"
+20,9,2025,263,16,"SW","LITT",15,"litter","LITT","litter","litter",NA
+20,9,2025,263,16,"SW","BARE",40,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,17,"NW","SaTr",10,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,17,"NW","ThFi",25,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,17,"NW","ChIn",12,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,17,"NW","BoGr",1,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,17,"NW","GlPu",3,"Glandularia pumila","Forb","Verbenaceae","Glandularia","pumila"
+20,9,2025,263,17,"NW","LITT",25,"litter","LITT","litter","litter",NA
+20,9,2025,263,17,"NW","BARE",10,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,18,"NW","ThFi",100,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,18,"NW","SaTr",12,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,18,"NW","ArHu",25,"Argythamnia humilis","Forb","Euphorbiaceae","Argythamnia","humilis"
+20,9,2025,263,18,"NW","ChIn",5,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,18,"NW","GlPu",3,"Glandularia pumila","Forb","Verbenaceae","Glandularia","pumila"
+20,9,2025,263,18,"NW","LITT",7,"litter","LITT","litter","litter",NA
+20,9,2025,263,18,"NW","BARE",3,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,20,"SW","SaTr",50,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,20,"SW","ThFi",27,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,20,"SW","BoGr",8,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,20,"SW","LITT",15,"litter","LITT","litter","litter",NA
+20,9,2025,263,20,"SW","BARE",10,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,21,"SE","ChIn",27,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,21,"SE","ThFi",33,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,21,"SE","LaCo",3,"Laennecia coulteri","Forb","Asteraceae","Laennecia","coulteri"
+20,9,2025,263,21,"SE","ArHu",4,"Argythamnia humilis","Forb","Euphorbiaceae","Argythamnia","humilis"
+20,9,2025,263,21,"SE","BoGr",2,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,21,"SE","SoEl",1,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,21,"SE","LITT",20,"litter","LITT","litter","litter",NA
+20,9,2025,263,21,"SE","BARE",15,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,28,"SW","SaTr",95,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,28,"SW","LITT",5,"litter","LITT","litter","litter",NA
+20,9,2025,263,27,"SW","SaTr",15,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,27,"SW","LaCo",5,"Laennecia coulteri","Forb","Asteraceae","Laennecia","coulteri"
+20,9,2025,263,27,"SW","ChIn",15,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,27,"SW","ThFi",20,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,27,"SW","LITT",35,"litter","LITT","litter","litter",NA
+20,9,2025,263,27,"SW","BARE",5,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,27,"SW","ZiGr",3,"Zinnia grandiflora","Forb","Asteraceae","Zinnia","grandiflora"
+20,9,2025,263,24,"SE","ChIn",45,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,24,"SE","SaTr",35,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,24,"SE","ThFi",10,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,24,"SE","LITT",22,"litter","LITT","litter","litter",NA
+20,9,2025,263,24,"SE","BARE",6,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,23,"NW","SaTr",43,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,23,"NW","ChIn",25,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,23,"NW","ThFi",17,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,23,"NW","BoGr",3,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,23,"NW","LITT",20,"litter","LITT","litter","litter",NA
+20,9,2025,263,23,"NW","BARE",7,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,29,"NE","ChIn",30,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,29,"NE","SaTr",7,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,29,"NE","LaCo",4,"Laennecia coulteri","Forb","Asteraceae","Laennecia","coulteri"
+20,9,2025,263,29,"NE","ThFi",10,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,29,"NE","LITT",20,"litter","LITT","litter","litter",NA
+20,9,2025,263,29,"NE","BARE",10,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,30,"NW","SaTr",17,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,30,"NW","ChIn",10,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,30,"NW","SoEl",1,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,30,"NW","ThFi",35,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,30,"NW","LITT",20,"litter","LITT","litter","litter",NA
+20,9,2025,263,30,"NW","BARE",15,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,30,"NW","PoOl",1,"Portulaca oleracea","Forb","Portulacaceaea","Portulaca","oleracea"
+20,9,2025,263,32,"SE","ThFi",45,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,32,"SE","SaTr",27,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,32,"SE","ChIn",3,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,32,"SE","SoEl",1,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,32,"SE","BoGr",1,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,32,"SE","LITT",17,"litter","LITT","litter","litter",NA
+20,9,2025,263,32,"SE","BARE",6,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,33,"NE","ChIn",32,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,33,"NE","ThFi",10,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,33,"NE","LITT",30,"litter","LITT","litter","litter",NA
+20,9,2025,263,33,"NE","BARE",33,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,34,"NE","SaTr",40,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,34,"NE","LaCo",25,"Laennecia coulteri","Forb","Asteraceae","Laennecia","coulteri"
+20,9,2025,263,34,"NE","ChIn",11,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,34,"NE","BARE",1,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,34,"NE","LITT",82,"litter","LITT","litter","litter",NA
+20,9,2025,263,35,"NW","SaTr",45,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,35,"NW","ThFi",40,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,35,"NW","SoEl",2,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,35,"NW","BoGr",3,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,35,"NW","ChIn",5,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,35,"NW","GlPu",8,"Glandularia pumila","Forb","Verbenaceae","Glandularia","pumila"
+20,9,2025,263,35,"NW","PoOl",2,"Portulaca oleracea","Forb","Portulacaceaea","Portulaca","oleracea"
+20,9,2025,263,35,"NW","LITT",35,"litter","LITT","litter","litter",NA
+20,9,2025,263,35,"NW","BARE",3,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,42,"SE","BoGr",17,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,42,"SE","ThFi",41,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,42,"SE","SaTr",2,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,42,"SE","LITT",60,"litter","LITT","litter","litter",NA
+20,9,2025,263,42,"SE","BARE",7,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,39,"NE","SaTr",27,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,39,"NE","ChIn",22,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,39,"NE","LaCo",5,"Laennecia coulteri","Forb","Asteraceae","Laennecia","coulteri"
+20,9,2025,263,39,"NE","ThFi",8,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,39,"NE","LITT",35,"litter","LITT","litter","litter",NA
+20,9,2025,263,39,"NE","BARE",8,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,39,"NE","BoGr",2,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,37,"SW","BoGr",50,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,37,"SW","SaTr",20,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,37,"SW","ChIn",2,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
+20,9,2025,263,37,"SW","ThFi",8,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,37,"SW","SoEl",3,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,37,"SW","BaSc",1,"Bassia scoparia","Forb","Amaranthaceae","Bassia","scoparia"
+20,9,2025,263,37,"SW","LITT",32,"litter","LITT","litter","litter",NA
+20,9,2025,263,37,"SW","BARE",6,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,36,"SW","LaCo",2,"Laennecia coulteri","Forb","Asteraceae","Laennecia","coulteri"
+20,9,2025,263,36,"SW","ThFi",45,"Thelesperma filifolium","Forb","Asteraceae","Thelesperma","filifolium"
+20,9,2025,263,36,"SW","SaTr",25,"Salsola tragus","Forb","Chenopodiaceae","Salsola","tragus"
+20,9,2025,263,36,"SW","BoGr",4,"Bouteloua gracilis","Grass","Poaceae","Bouteloua","gracilis"
+20,9,2025,263,36,"SW","GlPu",1,"Glandularia pumila","Forb","Verbenaceae","Glandularia","pumila"
+20,9,2025,263,36,"SW","BaSc",1,"Bassia scoparia","Forb","Amaranthaceae","Bassia","scoparia"
+20,9,2025,263,36,"SW","SoEl",2,"Solanum elaegnaifolium","Forb","Solanaceae","Solanum","elaegnaifolium"
+20,9,2025,263,36,"SW","LITT",20,"litter","LITT","litter","litter",NA
+20,9,2025,263,36,"SW","BARE",1,"bareground","BARE","bareground","bareground",NA
+20,9,2025,263,36,"SW","ChIn",NA,"Chinopodium incanum","Forb","Chenopodiaceae","Chinopodium","incanum"
